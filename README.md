@@ -19,13 +19,6 @@
 * **Gestion de Profils** : Sauvegarde des réglages personnalisés pour différents élèves ou besoins.
 * **Import/Export** : Support des fichiers .docx et .txt, et export de configurations.
 
-### Installation (Google Apps Script)
-1. Ouvrez [Google Apps Script](https://script.google.com/).
-2. Créez un nouveau projet nommé `Dys-Helper`.
-3. Copiez le contenu de `index.php` (adapté en HTML) dans un fichier `Index.html`.
-4. Créez un fichier `Code.gs` pour gérer le service web via la fonction `doGet()`.
-5. Déployez en tant qu'application Web.
-
 ---
 
 ## 🇺🇸 English
@@ -40,17 +33,6 @@
 * **Profile Management**: Save personalized settings for different students or specific needs.
 * **Import/Export**: Support for .docx and .txt files, and configuration export.
 
-### Manual Installation
-1. Go to [Google Apps Script](https://script.google.com/).
-2. Create a new project titled `Dys-Helper`.
-3. Copy the content of `index.php` (converted to HTML) into an `Index.html` file.
-4. Create a `Code.gs` file to handle the web service using the `doGet()` function.
-5. Deploy as a Web App.
-
----
-
-### Auteur / Author
-**Fabrice Faucheux** *Développeur passionné par l'accessibilité numérique.*
 
 ### Licence / License
 Ce projet est sous licence **MIT**.
